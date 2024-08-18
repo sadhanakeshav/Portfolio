@@ -115,7 +115,7 @@ import {
     {
       name: "Healthcare Employee Attrition Analysis",
       description:
-        "The healthcare project involves analyzing employee attrition data to uncover patterns and factors contributing to turnover. Provides actionable recommendations for improving employee retention.",
+        "The healthcare project involves analyzing employee attrition data to uncover patterns and factors contributing to turnover.",
       tags: [
         {
           name: "mysql",
