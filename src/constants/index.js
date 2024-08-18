@@ -4,6 +4,7 @@ import {
     creator,
     web,
     
+    mysql,
     excel,
     bi,
     tableau,
@@ -11,10 +12,11 @@ import {
    
     sat,
     satsure,
+    employee,
     titanic,
     superstore,
     beauty,
-    customer,
+    customer
   
   } from "../assets";
   
@@ -53,6 +55,10 @@ import {
   ];
   
   const technologies = [
+    {
+      name: "Mysql",
+      icon: mysql,
+    },
     {
       name: "Excel",
       icon: excel,
@@ -106,6 +112,20 @@ import {
   
   
   const projects = [
+    {
+      name: "Healthcare Employee Attrition Analysis",
+      description:
+        "The healthcare project involves analyzing employee attrition data to uncover patterns and factors contributing to turnover. Provides actionable recommendations for improving employee retention.",
+      tags: [
+        {
+          name: "mysql",
+          color: "blue-text-gradient",
+        },
+       
+      ],
+      image: employee,
+      source_code_link: "https://github.com/sadhanakeshav/Healthcare_Employee_Attrition_Analysis",
+    },
     {
       name: "Titanic Survival Analysis",
       description:
