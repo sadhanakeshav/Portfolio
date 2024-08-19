@@ -20,8 +20,9 @@ import satsure from "./company/satsure.png";
 
 import employee from "./employee.jpg";
 import titanic from "./titanic.jpg";
-import superstore from "./superstore.jpg";
 import beauty from "./beauty.jpg";
+import superstore from "./superstore.jpg";
+
 
 
 export {
@@ -42,7 +43,7 @@ export {
   satsure,
   employee,
   titanic,
-  superstore,
   beauty,
+  superstore,
   
 };

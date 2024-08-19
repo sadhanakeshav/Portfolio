@@ -13,8 +13,8 @@ import {
     satsure,
     employee,
     titanic,
-    superstore,
-    beauty
+    beauty,
+    superstore
     
   
   } from "../assets";
@@ -137,33 +137,34 @@ import {
       source_code_link: "https://github.com/sadhanakeshav/Titanic_Survival_Analysis",
     },
     {
-      name: "Superstore Performance Analysis",
-      description:
-        " This project analyzes Superstore sales and profit data to uncover key trends and insights across categories, time, regions, and customer segments.",
-      tags: [
-        {
-          name: "python",
-          color: "blue-text-gradient",
-        },
-        
-      ],
-      image: superstore,
-      source_code_link: "https://github.com/sadhanakeshav/Superstore_Analysis",
-    },
-    {
       name: "Supply Chain Dynamics",
       description:
         "Analyzed supply chain data to identify bottlenecks and improve efficiency using Power BI. Developed an interactive dashboard for strategic decision-making in supply chain management.",
       tags: [
         {
           name: "powerbi",
-          color: "green-text-gradient",
+          color: "blue-text-gradient",
         },
        
       ],
       image: beauty,
       source_code_link: "https://github.com/sadhanakeshav/Supply_Chain_Analysis",
     },
+    {
+      name: "Superstore Performance Analysis",
+      description:
+        " This project analyzes Superstore sales and profit data to uncover key trends and insights across categories, time, regions, and customer segments.",
+      tags: [
+        {
+          name: "python",
+          color: "green-text-gradient",
+        },
+        
+      ],
+      image: superstore,
+      source_code_link: "https://github.com/sadhanakeshav/Superstore_Analysis",
+    },
+    
     
   ];
   
