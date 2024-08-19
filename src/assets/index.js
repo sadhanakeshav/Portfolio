@@ -10,7 +10,6 @@ import close from "./close.svg";
 
 import mysql from "./tech/mysql.png";
 import excel from "./tech/excel.png";
-import tableau from "./tech/tableau.png";
 import bi from "./tech/bi.png";
 import python from "./tech/python.png";
 
@@ -23,7 +22,7 @@ import employee from "./employee.jpg";
 import titanic from "./titanic.jpg";
 import superstore from "./superstore.jpg";
 import beauty from "./beauty.jpg";
-import customer from "./customer.png";
+
 
 export {
   logo,
@@ -36,7 +35,7 @@ export {
   close,
   mysql,
   excel,
-  tableau,
+  
   bi,
   python,
   sat,
@@ -45,5 +44,5 @@ export {
   titanic,
   superstore,
   beauty,
-  customer,
+  
 };

@@ -48,7 +48,7 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         Excited about turning data into compelling stories, I’m an aspiring data analyst with a knack for 
-        creating engaging visualizations. With tools like Excel, Tableau, and Power BI, 
+        creating engaging visualizations. With tools like Excel and Power BI, 
         I turn complex datasets into interactive dashboards that not only inform 
         but also inspire action. Let’s bring data to life and drive meaningful insights together!
         

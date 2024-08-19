@@ -7,7 +7,6 @@ import {
     mysql,
     excel,
     bi,
-    tableau,
     python,
    
     sat,
@@ -15,8 +14,8 @@ import {
     employee,
     titanic,
     superstore,
-    beauty,
-    customer
+    beauty
+    
   
   } from "../assets";
   
@@ -63,10 +62,7 @@ import {
       name: "Excel",
       icon: excel,
     },
-    {
-      name: "Tableau",
-      icon: tableau,
-    },
+    
     {
       name: "Power BI",
       icon: bi,
@@ -141,18 +137,18 @@ import {
       source_code_link: "https://github.com/sadhanakeshav/Titanic_Survival_Analysis",
     },
     {
-      name: "Superstore Sales Analysis",
+      name: "Superstore Performance Analysis",
       description:
-        "Analyzed sales data to uncover key trends and optimize strategies. Developed an interactive Tableau dashboard to visualize performance across regions, categories, and customer segments.",
+        " This project analyzes Superstore sales and profit data to uncover key trends and insights across categories, time, regions, and customer segments.",
       tags: [
         {
-          name: "tableau",
+          name: "python",
           color: "blue-text-gradient",
         },
         
       ],
       image: superstore,
-      source_code_link: "https://github.com/sadhanakeshav/Superstore-Sales-Analysis",
+      source_code_link: "https://github.com/sadhanakeshav/Superstore_Analysis",
     },
     {
       name: "Supply Chain Dynamics",
@@ -168,20 +164,7 @@ import {
       image: beauty,
       source_code_link: "https://github.com/sadhanakeshav/Supply_Chain_Analysis",
     },
-    {
-      name: "Customer Segmentation",
-      description:
-        "Analyzed customer data to categorize customers based on age, income, and spending behavior using Python. Applied K-means clustering to identify distinct customer segments and visualize key insights for personalized marketing strategies.",
-      tags: [
-        {
-          name: "python",
-          color: "blue-text-gradient",
-        },
-       
-      ],
-      image: customer,
-      source_code_link: "https://github.com/sadhanakeshav/Customer_Segmentation_k-means",
-    },
+    
   ];
   
   export { services, technologies, experiences,  projects };
