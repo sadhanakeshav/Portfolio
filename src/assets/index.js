@@ -12,15 +12,17 @@ import excel from "./tech/excel.png";
 import tableau from "./tech/tableau.png";
 import bi from "./tech/bi.png";
 import python from "./tech/python.png";
+import mysql from "./tech/mysql.png";
 
 
-import sat from "./company/sat.png";
+import ai from "./company/ai.png";
 import satsure from "./company/satsure.png";
 
-import titanic from "./titanic.jpg";
+import hospital from "./hospital.jpg";
 import superstore from "./superstore.jpg";
 import beauty from "./beauty.jpg";
-import customer from "./customer.png";
+import plane from "./plane.jpg";
+import bank from "./bank.jpg";
 
 export {
   logo,
@@ -32,13 +34,15 @@ export {
   menu,
   close,
   excel,
-  tableau,
+  mysql,
   bi,
+  tableau,
   python,
-  sat,
+  ai,
   satsure,
-  titanic,
+  hospital,
   superstore,
   beauty,
-  customer,
+  plane,
+  bank,
 };
