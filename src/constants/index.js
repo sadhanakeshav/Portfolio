@@ -8,7 +8,7 @@ import {
   mysql,
   bi,
   tableau,
-  python,
+
  
   ai,
   satsure,
@@ -71,10 +71,7 @@ const technologies = [
     name: "Tableau",
     icon: tableau,
   },
-  {
-    name: "Python",
-    icon: python,
-  },
+ 
   
 ];
 
