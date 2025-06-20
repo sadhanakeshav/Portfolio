@@ -11,7 +11,7 @@ import close from "./close.svg";
 import mysql from "./tech/mysql.png";
 import excel from "./tech/excel.png";
 import bi from "./tech/bi.png";
-import python from "./tech/python.png";
+
 import mysql from "./tech/mysql.png";
 
 
@@ -38,7 +38,7 @@ export {
   mysql,
   bi,
   tableau,
-  python,
+ 
   ai,
   satsure,
   employee,
