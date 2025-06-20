@@ -93,7 +93,7 @@ const experiences = [
     company_name: "Ai Variant",
     icon: ai,
     iconBg: "#383E56",
-    date: "January 2025 - Present",
+    date: "November 2024 - May 2025",
     points: [
       "Executed comprehensive data analysis projects involving large datasets for diverse industries, including banking and aviation.",
       "Conducted data cleaning and preprocessing using Excel, transforming raw datasets into structured formats and creating interactive dashboards to uncover key business insights.",
