@@ -165,7 +165,7 @@ const projects = [
      
     ],
     image: plane,
-    source_code_link: "https://github.com/sadhanakeshav/Customer_Segmentation_k-means",
+    source_code_link: "https://github.com/sadhanakeshav/High_Cloud_Airlines",
   },
  
   {
