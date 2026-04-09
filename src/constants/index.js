@@ -149,7 +149,7 @@ const projects = [
       },
      
     ],
-    image: beauty,
+    image: churn,
     source_code_link: "https://github.com/sadhanakeshav/Customer_Churn_Analytics",
   },
 
