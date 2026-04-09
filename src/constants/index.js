@@ -14,7 +14,7 @@ import {
   satsure,
   hospital,
   superstore,
-  churn,
+  beauty,
   plane,
   bank,
 
@@ -139,9 +139,9 @@ const projects = [
     source_code_link: "https://github.com/sadhanakeshav/Hospital_Readmissions",
   },
   {
-    name: "Customer Churn Analytics",
+    name: "Supply Chain Dynamics",
     description:
-      "Analyzed customer behavior data to identify churn patterns and built an interactive Power BI dashboard for developing data-driven retention strategies.",
+      "Analyzed supply chain data to identify bottlenecks and improve efficiency with an interactive Power BI dashboard for strategic decision-making.",
     tags: [
       {
         name: "powerbi",
@@ -149,8 +149,8 @@ const projects = [
       },
      
     ],
-    image: churn,
-    source_code_link: "https://github.com/sadhanakeshav/Customer_Churn_Analytics",
+    image: beauty,
+    source_code_link: "https://github.com/sadhanakeshav/Supply_Chain_Analysis",
   },
 
   {

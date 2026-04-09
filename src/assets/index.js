@@ -20,7 +20,7 @@ import satsure from "./company/satsure.png";
 
 import hospital from "./hospital.jpg";
 import superstore from "./superstore.jpg";
-import beauty from "./churn.jpg";
+import beauty from "./beauty.jpg";
 import plane from "./plane.jpg";
 import bank from "./bank.jpg";
 
@@ -42,7 +42,7 @@ export {
   satsure,
   hospital,
   superstore,
-  churn,
+  beauty,
   plane,
   bank,
 };
